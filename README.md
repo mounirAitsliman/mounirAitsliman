@@ -6,7 +6,7 @@
 
 young ambitious engineer, passionate about software engineering , with a spirit of initiative and analysis. I have accumulated several professional experiences acquired through my internships, academic projects, personal and certifications in the field, I am now open to work in the field of web development with the stack (java/ angular), disponibility from now on. My goal is to continue my career in this field by putting my skills and passion for IT into practice.
 
-   <a href="https://www.linkedin.com/in/jonah-lawrence/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+   <a href="https://www.linkedin.com/in/ait-sliman/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ---
