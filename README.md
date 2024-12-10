@@ -31,8 +31,7 @@ young ambitious engineer, passionate about software engineering , with a spirit 
 <br />
 
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mounirAitsliman)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 <br />
 <details>
  <summary><h3>👨‍💻 Mounir's Coding Journey</h3></summary>
