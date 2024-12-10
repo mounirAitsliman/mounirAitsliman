@@ -31,17 +31,7 @@ young ambitious engineer, passionate about software engineering , with a spirit 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
-#
 
-### 📺 Latest YouTube Videos
-
-
-#
-
-
-
-#
-<!--
 <details>
  <summary><h3>👨‍💻 Mounir's Coding Journey</h3></summary>
    My passion for computers ignited at an early age, fueled by my father’s deep fascination with operating systems. He passed down that curiosity to me, and I’ve been captivated by the ever-evolving world of technology ever since. Each day brings something new to learn, a challenge to tackle, and a sense of excitement about the future of this incredible field.
@@ -51,6 +41,6 @@ With this passion as my foundation, I chose to pursue a degree in computer scien
 My journey has been focused on mastering the art and science of web development, where creativity meets functionality. I’ve always believed that the web is more than just code—it’s a canvas for innovation, a platform for connection, and a tool to shape the world.
 
 As I move forward, I’m not just learning; I’m building. I want to create experiences that inspire and solutions that matter, while staying true to the spark that first got me started—my love for technology, the drive to keep growing, and the determination to solve whatever challenges come my way.
--->
+
 
 
