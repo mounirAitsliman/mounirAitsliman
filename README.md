@@ -30,6 +30,8 @@ young ambitious engineer, passionate about software engineering , with a spirit 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mounirAitsliman)](https://git.io/streak-stats)
+
 
 <details>
  <summary><h3>👨‍💻 Mounir's Coding Journey</h3></summary>
