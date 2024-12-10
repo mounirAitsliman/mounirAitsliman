@@ -37,9 +37,9 @@ young ambitious engineer, passionate about software engineering , with a spirit 
 
 With this passion as my foundation, I chose to pursue a degree in computer science engineering. Along the way, I discovered my knack for problem-solving. Whether it’s debugging code, optimizing workflows, or finding innovative solutions to complex challenges, I thrive on the thrill of unraveling puzzles and turning ideas into tangible results.
 
-My journey has been focused on mastering the art and science of web development, where creativity meets functionality. I’ve always believed that the web is more than just code—it’s a canvas for innovation, a platform for connection, and a tool to shape the world.
+My journey has been focused on mastering the art and science of web development, where creativity meets functionality. I’ve always believed that the web is more than just code it’s a canvas for innovation, a platform for connection, and a tool to shape the world.
 
-As I move forward, I’m not just learning; I’m building. I want to create experiences that inspire and solutions that matter, while staying true to the spark that first got me started—my love for technology, the drive to keep growing, and the determination to solve whatever challenges come my way.
+As I move forward, I’m not just learning; I’m building. I want to create experiences that inspire and solutions that matter, while staying true to the spark that first got me started my love for technology, the drive to keep growing, and the determination to solve whatever challenges come my way.
 
 
 
